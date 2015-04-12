@@ -82,11 +82,12 @@ a {
 	color:#db4c4c;
 	text-decoration:none;
 	border-bottom: 1px solid #db4c4c;
-	-webkit-transition: color .2s ease-in-out;
-	transition: color .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
 }
 a:hover {
 	color:#7f8c8d;
+	border-bottom: 1px solid #7f8c8d;
 	text-decoration:none;
 }
 strong {
