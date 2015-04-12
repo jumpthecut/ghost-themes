@@ -81,12 +81,12 @@ blockquote {
 a {
 	color:#db4c4c;
 	text-decoration:none;
-	border-bottom:1px dotted #ddd;
+	border-bottom: 1px solid #db4c4c;
 	-webkit-transition: color .2s ease-in-out;
 	transition: color .2s ease-in-out;
 }
 a:hover {
-	color:#db4c4c;
+	color:#7f8c8d;
 	text-decoration:none;
 }
 strong {
@@ -149,12 +149,12 @@ strong {
 }
 .brand {
 	border:none;
-	padding:30px 0;
+	padding:20px 0;
 	line-height:0;
 }
 .brand img {
 	width:auto;
-	height:30px;
+	height:50px;
 }
 .content {
 	line-height:90px;
@@ -385,7 +385,7 @@ footer p {
 	padding:40px 0;
 }
 .sample .container a:hover {
-	color:#db4c4c;
+	color:#7f8c8d;
 }
 .excerpt article {
 	border-bottom:2px solid #f2f3f4;
