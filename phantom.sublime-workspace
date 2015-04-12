@@ -175,7 +175,7 @@
 			"file": "assets/css/phantom.css",
 			"settings":
 			{
-				"buffer_size": 10776,
+				"buffer_size": 10779,
 				"line_ending": "Unix"
 			}
 		}
@@ -384,6 +384,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"a:hover",
 			"navigation",
 			"#",
 			"2e9fff",
@@ -510,8 +511,7 @@
 			"notouch",
 			"change",
 			"awesome",
-			"I am so",
-			"change picture"
+			"I am so"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -552,15 +552,15 @@
 					"file": "assets/css/phantom.css",
 					"settings":
 					{
-						"buffer_size": 10776,
+						"buffer_size": 10779,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3843,
-								3843
+								3056,
+								3056
 							]
 						],
 						"settings":
@@ -569,7 +569,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2310.0,
+						"translation.y": 1429.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
