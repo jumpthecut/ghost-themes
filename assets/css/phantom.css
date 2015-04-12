@@ -87,7 +87,7 @@ a {
 }
 a:hover {
 	color:#7f8c8d;
-	border-bottom: 1px solid #7f8c8d;
+	border-bottom-color: #7f8c8d;
 	text-decoration:none;
 }
 strong {
