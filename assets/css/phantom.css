@@ -133,10 +133,16 @@ strong {
 .navigation {
 	height:90px;
 	font-weight:100;
-	background:#1b1f23;
+	background:#db4c4c;
 	-webkit-animation-duration:1s;
 	animation-duration:1s;
 }
+
+.navigation p {
+  color: white;
+  font-size: 1em;
+}
+
 .content, .brand {
 	display:block;
 	float:left;

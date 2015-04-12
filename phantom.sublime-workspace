@@ -1,0 +1,742 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"jtc-",
+				"jtc-darkgrey"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"jtc",
+				"jtc-grey"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"menu",
+				"menu-overlay-container"
+			],
+			[
+				"translate",
+				"translate"
+			],
+			[
+				"transition",
+				"transition"
+			],
+			[
+				"men",
+				"menu-overlay"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"edition-cover-title",
+				"edition-cover-title-spacing"
+			],
+			[
+				"medium",
+				"medium-padding"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"jt",
+				"jtc-offblack"
+			],
+			[
+				"nav",
+				"nav-icon"
+			],
+			[
+				"nav-ic",
+				"nav-icon-text"
+			],
+			[
+				"menu-",
+				"menu-item"
+			],
+			[
+				"menu-item",
+				"menu-item-inner"
+			],
+			[
+				"bakg",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"trans",
+				"transition-cubic-bezier"
+			],
+			[
+				"bundle-",
+				"bundle-pickanother"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bundle",
+				"bundle-group"
+			],
+			[
+				"pri",
+				"primary-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pro",
+				"prototypes"
+			],
+			[
+				"Pr",
+				"ProximaNova"
+			],
+			[
+				"Dalek",
+				"DalekSecSays"
+			],
+			[
+				"gree",
+				"greeting"
+			],
+			[
+				"the",
+				"theDoctor"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ul",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/css/phantom.css",
+			"settings":
+			{
+				"buffer_size": 10776,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packare",
+				"Package Control: List Packages"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 56.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hotdvl/Sites/ghost-themes/assets/css/phantom.css",
+		"/Users/hotdvl/Dropbox/projects/jumpthecut/01 - Product/02 - Prototyping/2015:03:02 – Vibe Picker Reloaded/site/css/app.css",
+		"/Users/hotdvl/Dropbox/projects/jumpthecut/01 - Product/02 - Prototyping/2015:03:02 – Vibe Picker Reloaded/site/index.html",
+		"/Users/hotdvl/Sites/JTC/src/scss/app.scss",
+		"/Users/hotdvl/Sites/JTC/public/views/index.html",
+		"/Users/hotdvl/Sites/JTC/src/jsx/signinmodal.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/editionoverview.jsx",
+		"/Users/hotdvl/Sites/JTC/src/scss/_editionoverview.scss",
+		"/Users/hotdvl/Sites/JTC/src/scss/_landing-page.scss",
+		"/Users/hotdvl/Sites/JTC/src/scss/bundleapp.scss",
+		"/Users/hotdvl/Sites/JTC/src/jsx/landingpage.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/landingcta.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/connectfacebook.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/login.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/connectloginregister.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/bundlepicker.jsx",
+		"/Users/hotdvl/Dropbox/Projects/JUMPTHECUT/01 - Product/02 - Prototyping/2015:03:02 – Vibe Picker Reloaded/site/index.html",
+		"/Users/hotdvl/Sites/JTC/src/scss/_vibe-picker.scss",
+		"/Users/hotdvl/Dropbox/Projects/JUMPTHECUT/01 - Product/02 - Prototyping/2015:03:02 – Vibe Picker Reloaded/site/css/app.css",
+		"/Users/hotdvl/Sites/JTC/src/jsx/app.jsx",
+		"/Users/hotdvl/Sites/JTC/public/views/bundle.html",
+		"/Users/hotdvl/Sites/JTC/public/scripts/bundle.js",
+		"/Users/hotdvl/Sites/JTC/.tmp/concat/styles/bundleapp.css",
+		"/Users/hotdvl/Sites/JTC/src/jsx/bundlepicker-legacy.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/nav.jsx",
+		"/Users/hotdvl/Sites/JTC/src/scss/_bundlepicker-legacy.scss",
+		"/Users/hotdvl/Sites/JTC/src/scss/_bundlepicker.scss",
+		"/Users/hotdvl/Sites/JTC/src/jsx/bundleplayer.jsx",
+		"/Users/hotdvl/Sites/JTC/Gruntfile.js",
+		"/Users/hotdvl/Sites/JTC/dist/views/index.html",
+		"/Users/hotdvl/Sites/JTC/node_modules/.bin/browserify",
+		"/Users/hotdvl/Sites/JTC/package.json",
+		"/Users/hotdvl/Sites/JTC/src/jsx/vibepicker.jsx",
+		"/Users/hotdvl/Sites/JTC/dist/bower_components/socket.io-client/support/browserify.sh",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/hotdvl/Sites/JTC/src/scss/_nav.scss",
+		"/Users/hotdvl/Sites/JTC/routes/static.js",
+		"/Users/hotdvl/Sites/JTC/.tmp/styles/bundleapp.css",
+		"/Users/hotdvl/Sites/JTC/src/scss/_browseshorts.scss",
+		"/Users/hotdvl/Desktop/Vibes/site/slider/flickity.css",
+		"/Users/hotdvl/Desktop/Vibes/site/slider/flickity.pkgd.js",
+		"/Users/hotdvl/Sites/JTC/src/scss/_bundleplayer.scss",
+		"/Users/hotdvl/Sites/JTC/src/jsx/theshortlistjoyride.jsx",
+		"/Users/hotdvl/Sites/foundation/scss/foundation/components/_joyride.scss",
+		"/Users/hotdvl/Sites/JTC/src/jsx/browseshortspage.jsx",
+		"/Users/hotdvl/Sites/JTC/src/scss/_user-settings.scss",
+		"/Users/hotdvl/Sites/JTC/src/jsx/usersettings.jsx",
+		"/Users/hotdvl/Sites/JTC/public/views/about.html",
+		"/Users/hotdvl/Sites/JTC/src/scss/_atoms.scss",
+		"/Users/hotdvl/Sites/JTC/node_modules/node-sass/test/fixtures/spec/Gemfile",
+		"/Users/hotdvl/Sites/JTC/src/jsx/bundlesubscribemodal.jsx",
+		"/Users/hotdvl/Sites/JTC/src/scss/_static-pages.scss",
+		"/Users/hotdvl/Sites/JTC/src/scss/_campaign.scss",
+		"/Users/hotdvl/Sites/JTC/src/js/main.js",
+		"/Users/hotdvl/Sites/JTC/src/jsx/alertAchievementUnlocked.jsx",
+		"/Users/hotdvl/Sites/JTC/routes/auth.js",
+		"/Users/hotdvl/Sites/JTC/src/scss/_user-profile.scss",
+		"/Users/hotdvl/Sites/JTC/config.rb",
+		"/Users/hotdvl/Sites/JTC/src/jsx/registration.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/blank.jsx",
+		"/Users/hotdvl/Sites/JTC/modules/couchbase.js",
+		"/Users/hotdvl/Sites/JTC/src/scss/_bundlesubscribemodal.scss",
+		"/Users/hotdvl/Sites/JTC/dist/views/bundle.html",
+		"/Users/hotdvl/Sites/JTC/src/jsx/campaign.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/firstpledge.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/footer.jsx",
+		"/Users/hotdvl/Sites/JTC/src/jsx/navpledge.jsx",
+		"/Users/hotdvl/Sites/JTC/src/scss/_settings.scss",
+		"/Users/hotdvl/Sites/JTC/public/styles/app.css",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/User/GitGutter.sublime-settings",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/GitGutter/GitGutter.sublime-settings",
+		"/Users/hotdvl/Library/Containers/com.bohemiancoding.sketch/Data/Library/Application Support/sketch/Plugins/Blend Steps/Blend Steps.sketchplugin.jstalk",
+		"/Users/hotdvl/Sites/JTC/README.md",
+		"/Users/hotdvl/Downloads/Web Downloads/themeforest-5468623-mox-responsive-coming-soon-mini-site-page/HTML/index2.html",
+		"/Users/hotdvl/Downloads/Web Downloads/themeforest-5468623-mox-responsive-coming-soon-mini-site-page/HTML/index1.html",
+		"/Users/hotdvl/Downloads/Web Downloads/themeforest-5468623-mox-responsive-coming-soon-mini-site-page/HTML/form.php",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/test/functions-dombasics.js",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/stylesheets/animate.css",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/test/objects-basics.js",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/stylesheets/app.css",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/manifesto/sass/base.scss",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/manifesto/index.html",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/manifesto/stylesheets/base.css",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/manifesto/stylesheets/skeleton.css",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/manifesto/stylesheets/layout.css",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/sass/_style.scss",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/test/test-js.js",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/javascripts/test.js",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/index.html",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/sass/_settings.scss",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/config.rb",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/javascripts/foundation/foundation.topbar.js",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/sass/style.scss",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/sass/app.scss",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/artos.sublime-project",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/style.css",
+		"/Users/hotdvl/Desktop/ARTOS 0.1/02 - dev/MIT-LICENSE.txt",
+		"/Users/hotdvl/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"navigation",
+			"#",
+			"2e9fff",
+			"Open Sans",
+			"/styles/fonts",
+			"flickity",
+			"bundle",
+			"nprogress",
+			"react",
+			"jsx",
+			"jquery",
+			"button--back",
+			"back",
+			"handleBackBtn",
+			"back",
+			"onClick",
+			"onclick",
+			"back",
+			"onclick",
+			"back",
+			"a",
+			"memoires",
+			"/prospect",
+			"group",
+			"laurel",
+			"stroke-width",
+			"flickity",
+			"bundlepicker",
+			"bundle.html",
+			"bundle",
+			"stroke",
+			"noui",
+			"/head",
+			"jquery",
+			"class",
+			".gallery-main",
+			"link rel",
+			"animate.min.css",
+			"animate.nin.css",
+			"animate",
+			"grunt-google-cdn",
+			"animate.min.css",
+			"animate",
+			"cdn",
+			"google-cdn",
+			"cdnify",
+			"nouislider",
+			"stay independent, crowdfunding, crowdfund, fund, finance, indie film, film, movies, movie, cinema, independent, independent financing, filmmaking, filmmakers, filmmaker, funding, indie, kickstarter",
+			"css",
+			"cdnjs.cloudflare.com/ajax/libs/foundation",
+			"require",
+			"'nprogress'",
+			"('nprogress')",
+			"('nprogress');",
+			"require('nprogress');",
+			"var Flickity = require('flickity-imagesloaded');\nrequire('nprogress');",
+			"nprogress",
+			"watch",
+			"require",
+			"footer",
+			"base-footer",
+			"theshortlist",
+			"@font",
+			"editorsnote",
+			"nav-profile",
+			"1.2rem",
+			"edition-nav",
+			"joyride",
+			"h4",
+			"cover",
+			"footer",
+			"no-touch-select",
+			"h3",
+			"h4",
+			"p",
+			"link",
+			"curator",
+			"border-bottom",
+			"#404040",
+			"737373",
+			"#686868",
+			"#bundle-pickanother",
+			"uiblack",
+			"bundle-pickanother",
+			"uiblack",
+			"button",
+			"vibe",
+			"change",
+			"PREV",
+			"tip",
+			"!important",
+			"1.3",
+			"leitura",
+			"scripts",
+			"joyride",
+			"blue",
+			"description",
+			"200x150",
+			"settings",
+			"hover",
+			"#686868",
+			"animation",
+			"50",
+			"transition",
+			"animation",
+			"close",
+			"list",
+			"animation",
+			"$default-cover-background-color",
+			"background",
+			"close",
+			"list",
+			"//",
+			"52p",
+			"%animation-flicker-fix",
+			"input",
+			"profilepic",
+			"textarea",
+			"32",
+			"0.5rem",
+			"margin-left: 0.5rem",
+			"margin-left: 0.5rem;",
+			"touch",
+			"notouch",
+			"change",
+			"awesome",
+			"I am so",
+			"change picture"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Apercu",
+			"../fonts",
+			"../fonts/",
+			"BACK",
+			"800x600",
+			"nav-item",
+			"nav-savedfilms",
+			"nav-features",
+			"nav-shortlist",
+			"nav-item",
+			"nav-browseallshorts",
+			"nav-savedfilms",
+			"2484c6",
+			"fonts",
+			"melody"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/css/phantom.css",
+					"settings":
+					{
+						"buffer_size": 10776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3843,
+								3843
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2310.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"edition",
+				"JTC/src/jsx/editionoverview.jsx"
+			],
+			[
+				"editionoverview",
+				"JTC/src/jsx/editionoverview.jsx"
+			],
+			[
+				"editionover",
+				"JTC/src/scss/_editionoverview.scss"
+			],
+			[
+				"app.jsx",
+				"JTC/src/jsx/app.jsx"
+			],
+			[
+				"vibepicker.",
+				"JTC/src/scss/_vibe-picker.scss"
+			],
+			[
+				"index",
+				"JTC/dist/views/index.html"
+			],
+			[
+				"browserify",
+				"JTC/node_modules/.bin/browserify"
+			],
+			[
+				"package",
+				"JTC/package.json"
+			],
+			[
+				"package.json",
+				"JTC/package.json"
+			],
+			[
+				"nav",
+				"JTC/src/jsx/nav.jsx"
+			],
+			[
+				"bundleapp.css",
+				"JTC/.tmp/styles/bundleapp.css"
+			],
+			[
+				"bundleplayer.scss",
+				"JTC/src/scss/_bundleplayer.scss"
+			],
+			[
+				"bundle",
+				"JTC/src/jsx/bundleplayer.jsx"
+			],
+			[
+				"bundlepicker",
+				"JTC/src/jsx/bundlepicker.jsx"
+			],
+			[
+				"shortlistj",
+				"JTC/src/jsx/theshortlistjoyride.jsx"
+			],
+			[
+				"editionove",
+				"JTC/src/jsx/editionoverview.jsx"
+			],
+			[
+				"bundleplayer",
+				"JTC/src/jsx/bundleplayer.jsx"
+			],
+			[
+				"bundleplayer.jsx",
+				"JTC/src/jsx/bundleplayer.jsx"
+			],
+			[
+				"gemfile",
+				"JTC/node_modules/node-sass/test/fixtures/spec/Gemfile"
+			],
+			[
+				"config.rb",
+				"JTC/config.rb"
+			],
+			[
+				"bundlepla",
+				"JTC/src/scss/_bundleplayer.scss"
+			],
+			[
+				"_cam",
+				"JTC/src/scss/_campaign.scss"
+			],
+			[
+				"campaign",
+				"JTC/src/scss/_campaign.scss"
+			],
+			[
+				"campaign.scss",
+				"JTC/src/scss/_campaign.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/hotdvl/Desktop/ARTOS 0.1/00 - manifesto/artos-manifesto.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
