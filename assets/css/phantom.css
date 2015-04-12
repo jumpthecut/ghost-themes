@@ -1,35 +1,36 @@
+/***
+Type
+***/
 @font-face {
-	font-family: 'Open Sans';
-	src: url('../fonts/OpenSans-Light-webfont.eot');
-	src: url('../fonts/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/OpenSans-Light-webfont.woff') format('woff'),
-		url('../fonts/OpenSans-Light-webfont.ttf') format('truetype'),
-		url('../fonts/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
-	font-weight: 300;
-	font-style: normal;
+  font-family: "Apercu";
+  src: url('../fonts/apercu-regular-webfont.eot?1389852346');
+  src: url('../fonts/apercu-regular-webfont.eot?&1389852346#iefix') format('embedded-opentype'), url('../fonts/apercu-regular-webfont.woff?1389852346') format('woff'), url('../fonts/apercu-regular-webfont.ttf?1389852346') format('truetype'), url('../fonts/apercu-regular-webfont.svg?1389852346') format('svg');
 }
-
 @font-face {
-	font-family: 'Open Sans';
-	src: url('../fonts/OpenSans-Regular-webfont.eot');
-	src: url('../fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/OpenSans-Regular-webfont.woff') format('woff'),
-		url('../fonts/OpenSans-Regular-webfont.ttf') format('truetype'),
-		url('../fonts/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
-	font-weight: 400;
-	font-style: normal;
+  font-family: "Apercu";
+  src: url('../fonts/apercu-bold-webfont.eot?1393408511');
+  src: url('../fonts/apercu-bold-webfont.eot?&1393408511#iefix') format('embedded-opentype'), url('../fonts/apercu-bold-webfont.woff?1393408511') format('woff'), url('../fonts/apercu-bold-webfont.ttf?1393408511') format('truetype'), url('../fonts/apercu-bold-webfont.svg?1393408511') format('svg');
+  font-weight: bold;
 }
-
 @font-face {
-	font-family: 'Open Sans';
-	src: url('../fonts/OpenSans-Semibold-webfont.eot');
-	src: url('../fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/OpenSans-Semibold-webfont.woff') format('woff'),
-		url('../fonts/OpenSans-Semibold-webfont.ttf') format('truetype'),
-		url('../fonts/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
-	font-weight: 600;
-	font-style: normal;
+  font-family: "Apercu";
+  src: url('../fonts/apercu-bolditalic-webfont.eot?1393408511');
+  src: url('../fonts/apercu-bolditalic-webfont.eot?&1393408511#iefix') format('embedded-opentype'), url('../fonts/apercu-bolditalic-webfont.woff?1393408511') format('woff'), url('../fonts/apercu-bolditalic-webfont.ttf?1393408511') format('truetype'), url('../fonts/apercu-bolditalic-webfont.svg?1393408511') format('svg');
+  font-weight: bold;
+  font-style: italic;
 }
+@font-face {
+  font-family: "Apercu";
+  src: url('../fonts/apercu-italic-webfont.eot?1393408511');
+  src: url('../fonts/apercu-italic-webfont.eot?&1393408511#iefix') format('embedded-opentype'), url('../fonts/apercu-italic-webfont.woff?1393408511') format('woff'), url('../fonts/apercu-italic-webfont.ttf?1393408511') format('truetype'), url('../fonts/apercu-italic-webfont.svg?1393408511') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Apercu Mono";
+  src: url('../fonts/apercu-mono-webfont.eot?1393163492');
+  src: url('../fonts/apercu-mono-webfont.eot?&1393163492#iefix') format('embedded-opentype'), url('../fonts/apercu-mono-webfont.woff?1393163492') format('woff'), url('../fonts/apercu-mono-webfont.ttf?1393163492') format('truetype'), url('../fonts/apercu-mono-webfont.svg?1393163492') format('svg');
+ }
 
 @-webkit-keyframes fadeInUp {
 	0% {
@@ -58,7 +59,7 @@
 	}
 }
 body {
-	font-family:'Open Sans', 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif;
+	font-family:'Apercu', 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif;
 	font-weight:300;
 }
 p, ul, ol {
@@ -78,14 +79,14 @@ blockquote {
 	border-left:1px dotted #ddd;
 }
 a {
-	color:#7f8c8d;
+	color:#db4c4c;
 	text-decoration:none;
 	border-bottom:1px dotted #ddd;
 	-webkit-transition: color .2s ease-in-out;
 	transition: color .2s ease-in-out;
 }
 a:hover {
-	color:#2e9fff;
+	color:#db4c4c;
 	text-decoration:none;
 }
 strong {
@@ -378,7 +379,7 @@ footer p {
 	padding:40px 0;
 }
 .sample .container a:hover {
-	color:#2e9fff;
+	color:#db4c4c;
 }
 .excerpt article {
 	border-bottom:2px solid #f2f3f4;
